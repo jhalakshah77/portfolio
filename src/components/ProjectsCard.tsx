@@ -1,5 +1,5 @@
 import { BsGithub } from "react-icons/bs";
-import {  FaLink, FaYoutube } from "react-icons/fa";
+import {  FaLink } from "react-icons/fa";
 
 interface Props {
   title: string;
