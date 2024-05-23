@@ -36,7 +36,7 @@ const Projects = () => {
             des="Live Chat application for texting and sending images"
             src={projectThree}
             sourceCodeLink="https://github.com/jhalakshah77/mern-chat-application"
-            liveLink="mern-chat-application-bujw.onrender.com"
+            liveLink="https://mern-chat-application-bujw.onrender.com"
           />
          {/*  <ProjectsCard
             title="SOCIAL MEDIA CLONE"
